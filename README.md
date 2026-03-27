@@ -19,6 +19,17 @@ The analysis compares:
 The goal is to **identify key performance drivers** and generate insights for improving student outcomes.
 
 ---
+## 🚨 Problem Statement
+
+Educational institutions often struggle to identify underperforming students early enough to provide timely support. Traditional methods rely on manual evaluation and may fail to capture underlying patterns in student behavior.
+
+This project addresses the challenge of predicting student academic performance early using machine learning, enabling proactive interventions, personalized learning strategies, and improved educational outcomes.
+
+## 🎯 Objective
+
+- Predict students' final exam scores using behavioral and academic data  
+- Identify key factors influencing performance  
+- Support data-driven decision-making in education  
 
 ## 🎯 Key Results
 
@@ -49,17 +60,8 @@ The goal is to **identify key performance drivers** and generate insights for im
 ## 📈 Exploratory Data Analysis (EDA)
 
 ### 🔹 Feature Relationships
-*(Add your scatter plot screenshot here)*
+<img width="571" height="455" alt="download" src="https://github.com/user-attachments/assets/f37df51a-33ce-4c0f-a708-10bf5e131764" />
 
-```markdown
-![Scatter Plot](images/scatter_plot.png)
-### 🔹 Correlation Heatmap
-
-*(Add your heatmap image here)*
-
-```markdown
-![Heatmap](images/heatmap.png)
-```
 
 ### 🔍 EDA Insights
 
@@ -94,18 +96,12 @@ The goal is to **identify key performance drivers** and generate insights for im
 ---
 
 ## 📉 Residual Analysis
+<img width="574" height="453" alt="Residuals" src="https://github.com/user-attachments/assets/6ccd945d-7763-4e2c-b11a-691609a79e1b" />
 
-*(Add residual plot image here)*
-
-```markdown
-![Residual Plot](images/residual_plot.png)
-```
 
 ### Insight:
 
 * Residuals are randomly distributed → Linear model assumptions hold
-
----
 
 ## 💼 Business Impact
 
@@ -149,8 +145,9 @@ Then open the notebook in Jupyter or Google Colab.
 
 ## 👨‍💻 Author
 
-**Murad Umer**
+**Murad Amin**
 www.linkedin.com/in/muradamin
+https://github.com/Muradamen
 
 ---
 
